@@ -1,0 +1,9 @@
+18/01/2026 10:00:57   Technicians
+18/01/2026 10:01:21   Access denied
+18/01/2026 10:03:02   Technicians
+18/01/2026 10:05:37   Technicians
+18/01/2026 10:05:54   Access denied
+18/01/2026 10:05:55   Access denied
+18/01/2026 10:05:56   Access denied
+18/01/2026 10:06:01   Access denied
+18/01/2026 10:10:10   Technicians

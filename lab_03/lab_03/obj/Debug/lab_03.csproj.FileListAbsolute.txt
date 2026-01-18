@@ -1,0 +1,13 @@
+C:\Users\#DUONG\source\repos\lab_03\lab_03\bin\Debug\lab_03.exe.config
+C:\Users\#DUONG\source\repos\lab_03\lab_03\bin\Debug\lab_03.exe
+C:\Users\#DUONG\source\repos\lab_03\lab_03\bin\Debug\lab_03.pdb
+C:\Users\#DUONG\source\repos\lab_03\lab_03\obj\Debug\lab_03.csproj.AssemblyReference.cache
+C:\Users\#DUONG\source\repos\lab_03\lab_03\obj\Debug\lab_03.Properties.Resources.resources
+C:\Users\#DUONG\source\repos\lab_03\lab_03\obj\Debug\lab_03.csproj.GenerateResource.cache
+C:\Users\#DUONG\source\repos\lab_03\lab_03\obj\Debug\lab_03.csproj.CoreCompileInputs.cache
+C:\Users\#DUONG\source\repos\lab_03\lab_03\obj\Debug\lab_03.exe
+C:\Users\#DUONG\source\repos\lab_03\lab_03\obj\Debug\lab_03.pdb
+C:\Users\#DUONG\source\repos\lab_03\lab_03\obj\Debug\lab_03.frmPhepTinh.resources
+C:\Users\#DUONG\source\repos\lab_03\lab_03\obj\Debug\lab_03.frmUocBoi.resources
+C:\Users\#DUONG\source\repos\lab_03\lab_03\obj\Debug\lab_03.frmMayTinh.resources
+C:\Users\#DUONG\source\repos\lab_03\lab_03\obj\Debug\lab_03.SecurityPanel.resources
