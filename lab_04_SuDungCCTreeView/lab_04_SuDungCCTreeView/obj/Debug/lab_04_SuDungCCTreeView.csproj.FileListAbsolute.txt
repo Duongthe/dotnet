@@ -1,0 +1,10 @@
+D:\dotnet\lab_04_SuDungCCTreeView\lab_04_SuDungCCTreeView\bin\Debug\lab_04_SuDungCCTreeView.exe.config
+D:\dotnet\lab_04_SuDungCCTreeView\lab_04_SuDungCCTreeView\bin\Debug\lab_04_SuDungCCTreeView.exe
+D:\dotnet\lab_04_SuDungCCTreeView\lab_04_SuDungCCTreeView\bin\Debug\lab_04_SuDungCCTreeView.pdb
+D:\dotnet\lab_04_SuDungCCTreeView\lab_04_SuDungCCTreeView\obj\Debug\lab_04_SuDungCCTreeView.csproj.AssemblyReference.cache
+D:\dotnet\lab_04_SuDungCCTreeView\lab_04_SuDungCCTreeView\obj\Debug\lab_04_SuDungCCTreeView.Form1.resources
+D:\dotnet\lab_04_SuDungCCTreeView\lab_04_SuDungCCTreeView\obj\Debug\lab_04_SuDungCCTreeView.Properties.Resources.resources
+D:\dotnet\lab_04_SuDungCCTreeView\lab_04_SuDungCCTreeView\obj\Debug\lab_04_SuDungCCTreeView.csproj.GenerateResource.cache
+D:\dotnet\lab_04_SuDungCCTreeView\lab_04_SuDungCCTreeView\obj\Debug\lab_04_SuDungCCTreeView.csproj.CoreCompileInputs.cache
+D:\dotnet\lab_04_SuDungCCTreeView\lab_04_SuDungCCTreeView\obj\Debug\lab_04_SuDungCCTreeView.exe
+D:\dotnet\lab_04_SuDungCCTreeView\lab_04_SuDungCCTreeView\obj\Debug\lab_04_SuDungCCTreeView.pdb

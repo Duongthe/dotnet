@@ -1,0 +1,10 @@
+D:\dotnet\lab_05_SDList_QLTinhTien\lab_05_SDList_QLTinhTien\bin\Debug\lab_05_SDList_QLTinhTien.exe.config
+D:\dotnet\lab_05_SDList_QLTinhTien\lab_05_SDList_QLTinhTien\bin\Debug\lab_05_SDList_QLTinhTien.exe
+D:\dotnet\lab_05_SDList_QLTinhTien\lab_05_SDList_QLTinhTien\bin\Debug\lab_05_SDList_QLTinhTien.pdb
+D:\dotnet\lab_05_SDList_QLTinhTien\lab_05_SDList_QLTinhTien\obj\Debug\lab_05_SDList_QLTinhTien.csproj.AssemblyReference.cache
+D:\dotnet\lab_05_SDList_QLTinhTien\lab_05_SDList_QLTinhTien\obj\Debug\lab_05_SDList_QLTinhTien.Form1.resources
+D:\dotnet\lab_05_SDList_QLTinhTien\lab_05_SDList_QLTinhTien\obj\Debug\lab_05_SDList_QLTinhTien.Properties.Resources.resources
+D:\dotnet\lab_05_SDList_QLTinhTien\lab_05_SDList_QLTinhTien\obj\Debug\lab_05_SDList_QLTinhTien.csproj.GenerateResource.cache
+D:\dotnet\lab_05_SDList_QLTinhTien\lab_05_SDList_QLTinhTien\obj\Debug\lab_05_SDList_QLTinhTien.csproj.CoreCompileInputs.cache
+D:\dotnet\lab_05_SDList_QLTinhTien\lab_05_SDList_QLTinhTien\obj\Debug\lab_05_SDList_QLTinhTien.exe
+D:\dotnet\lab_05_SDList_QLTinhTien\lab_05_SDList_QLTinhTien\obj\Debug\lab_05_SDList_QLTinhTien.pdb
