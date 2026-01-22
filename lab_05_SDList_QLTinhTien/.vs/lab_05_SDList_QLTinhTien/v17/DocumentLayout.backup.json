@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\dotnet\\lab_05_SDList_QLTinhTien\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B5CBCAEB-B6E4-495D-88C7-490BE6B9DCF2}|lab_05_SDList_QLTinhTien\\lab_05_SDList_QLTinhTien.csproj|d:\\dotnet\\lab_05_sdlist_qltinhtien\\lab_05_sdlist_qltinhtien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5CBCAEB-B6E4-495D-88C7-490BE6B9DCF2}|lab_05_SDList_QLTinhTien\\lab_05_SDList_QLTinhTien.csproj|solutionrelative:lab_05_sdlist_qltinhtien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5CBCAEB-B6E4-495D-88C7-490BE6B9DCF2}|lab_05_SDList_QLTinhTien\\lab_05_SDList_QLTinhTien.csproj|d:\\dotnet\\lab_05_sdlist_qltinhtien\\lab_05_sdlist_qltinhtien\\frmqlsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CBCAEB-B6E4-495D-88C7-490BE6B9DCF2}|lab_05_SDList_QLTinhTien\\lab_05_SDList_QLTinhTien.csproj|solutionrelative:lab_05_sdlist_qltinhtien\\frmqlsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5CBCAEB-B6E4-495D-88C7-490BE6B9DCF2}|lab_05_SDList_QLTinhTien\\lab_05_SDList_QLTinhTien.csproj|d:\\dotnet\\lab_05_sdlist_qltinhtien\\lab_05_sdlist_qltinhtien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B5CBCAEB-B6E4-495D-88C7-490BE6B9DCF2}|lab_05_SDList_QLTinhTien\\lab_05_SDList_QLTinhTien.csproj|solutionrelative:lab_05_sdlist_qltinhtien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B5CBCAEB-B6E4-495D-88C7-490BE6B9DCF2}|lab_05_SDList_QLTinhTien\\lab_05_SDList_QLTinhTien.csproj|d:\\dotnet\\lab_05_sdlist_qltinhtien\\lab_05_sdlist_qltinhtien\\frmthaotacso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CBCAEB-B6E4-495D-88C7-490BE6B9DCF2}|lab_05_SDList_QLTinhTien\\lab_05_SDList_QLTinhTien.csproj|solutionrelative:lab_05_sdlist_qltinhtien\\frmthaotacso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CBCAEB-B6E4-495D-88C7-490BE6B9DCF2}|lab_05_SDList_QLTinhTien\\lab_05_SDList_QLTinhTien.csproj|d:\\dotnet\\lab_05_sdlist_qltinhtien\\lab_05_sdlist_qltinhtien\\frmqlsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5CBCAEB-B6E4-495D-88C7-490BE6B9DCF2}|lab_05_SDList_QLTinhTien\\lab_05_SDList_QLTinhTien.csproj|solutionrelative:lab_05_sdlist_qltinhtien\\frmqlsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CBCAEB-B6E4-495D-88C7-490BE6B9DCF2}|lab_05_SDList_QLTinhTien\\lab_05_SDList_QLTinhTien.csproj|d:\\dotnet\\lab_05_sdlist_qltinhtien\\lab_05_sdlist_qltinhtien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CBCAEB-B6E4-495D-88C7-490BE6B9DCF2}|lab_05_SDList_QLTinhTien\\lab_05_SDList_QLTinhTien.csproj|solutionrelative:lab_05_sdlist_qltinhtien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CBCAEB-B6E4-495D-88C7-490BE6B9DCF2}|lab_05_SDList_QLTinhTien\\lab_05_SDList_QLTinhTien.csproj|d:\\dotnet\\lab_05_sdlist_qltinhtien\\lab_05_sdlist_qltinhtien\\frmthaotacso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5CBCAEB-B6E4-495D-88C7-490BE6B9DCF2}|lab_05_SDList_QLTinhTien\\lab_05_SDList_QLTinhTien.csproj|solutionrelative:lab_05_sdlist_qltinhtien\\frmthaotacso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 337,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,27 +38,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\dotnet\\lab_05_SDList_QLTinhTien\\lab_05_SDList_QLTinhTien\\Form1.cs",
-              "RelativeDocumentMoniker": "lab_05_SDList_QLTinhTien\\Form1.cs",
-              "ToolTip": "D:\\dotnet\\lab_05_SDList_QLTinhTien\\lab_05_SDList_QLTinhTien\\Form1.cs",
-              "RelativeToolTip": "lab_05_SDList_QLTinhTien\\Form1.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAswIwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\lab_05_SDList_QLTinhTien\\lab_05_SDList_QLTinhTien\\Program.cs",
+              "RelativeDocumentMoniker": "lab_05_SDList_QLTinhTien\\Program.cs",
+              "ToolTip": "D:\\dotnet\\lab_05_SDList_QLTinhTien\\lab_05_SDList_QLTinhTien\\Program.cs",
+              "RelativeToolTip": "lab_05_SDList_QLTinhTien\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T12:17:55.5Z",
+              "WhenOpened": "2026-01-22T12:26:46.205Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\dotnet\\lab_05_SDList_QLTinhTien\\lab_05_SDList_QLTinhTien\\Form1.cs",
-              "RelativeDocumentMoniker": "lab_05_SDList_QLTinhTien\\Form1.cs",
-              "ToolTip": "D:\\dotnet\\lab_05_SDList_QLTinhTien\\lab_05_SDList_QLTinhTien\\Form1.cs [Design]",
-              "RelativeToolTip": "lab_05_SDList_QLTinhTien\\Form1.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "frmQLSinhVien.cs",
+              "DocumentMoniker": "D:\\dotnet\\lab_05_SDList_QLTinhTien\\lab_05_SDList_QLTinhTien\\frmQLSinhVien.cs",
+              "RelativeDocumentMoniker": "lab_05_SDList_QLTinhTien\\frmQLSinhVien.cs",
+              "ToolTip": "D:\\dotnet\\lab_05_SDList_QLTinhTien\\lab_05_SDList_QLTinhTien\\frmQLSinhVien.cs",
+              "RelativeToolTip": "lab_05_SDList_QLTinhTien\\frmQLSinhVien.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAwwDEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T12:11:13.532Z",
+              "WhenOpened": "2026-01-22T12:04:41.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmQLSinhVien.cs [Design]",
+              "DocumentMoniker": "D:\\dotnet\\lab_05_SDList_QLTinhTien\\lab_05_SDList_QLTinhTien\\frmQLSinhVien.cs",
+              "RelativeDocumentMoniker": "lab_05_SDList_QLTinhTien\\frmQLSinhVien.cs",
+              "ToolTip": "D:\\dotnet\\lab_05_SDList_QLTinhTien\\lab_05_SDList_QLTinhTien\\frmQLSinhVien.cs [Design]",
+              "RelativeToolTip": "lab_05_SDList_QLTinhTien\\frmQLSinhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T12:01:44.119Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmThaotacso.cs",
+              "DocumentMoniker": "D:\\dotnet\\lab_05_SDList_QLTinhTien\\lab_05_SDList_QLTinhTien\\frmThaotacso.cs",
+              "RelativeDocumentMoniker": "lab_05_SDList_QLTinhTien\\frmThaotacso.cs",
+              "ToolTip": "D:\\dotnet\\lab_05_SDList_QLTinhTien\\lab_05_SDList_QLTinhTien\\frmThaotacso.cs",
+              "RelativeToolTip": "lab_05_SDList_QLTinhTien\\frmThaotacso.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAADwvzUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T11:36:07.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmThaotacso.cs [Design]",
+              "DocumentMoniker": "D:\\dotnet\\lab_05_SDList_QLTinhTien\\lab_05_SDList_QLTinhTien\\frmThaotacso.cs",
+              "RelativeDocumentMoniker": "lab_05_SDList_QLTinhTien\\frmThaotacso.cs",
+              "ToolTip": "D:\\dotnet\\lab_05_SDList_QLTinhTien\\lab_05_SDList_QLTinhTien\\frmThaotacso.cs [Design]",
+              "RelativeToolTip": "lab_05_SDList_QLTinhTien\\frmThaotacso.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T11:24:03.138Z",
               "EditorCaption": " [Design]"
             }
           ]

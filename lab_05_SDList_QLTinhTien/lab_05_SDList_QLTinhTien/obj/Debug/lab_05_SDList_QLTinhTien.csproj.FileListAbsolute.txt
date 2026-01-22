@@ -8,3 +8,5 @@ D:\dotnet\lab_05_SDList_QLTinhTien\lab_05_SDList_QLTinhTien\obj\Debug\lab_05_SDL
 D:\dotnet\lab_05_SDList_QLTinhTien\lab_05_SDList_QLTinhTien\obj\Debug\lab_05_SDList_QLTinhTien.csproj.CoreCompileInputs.cache
 D:\dotnet\lab_05_SDList_QLTinhTien\lab_05_SDList_QLTinhTien\obj\Debug\lab_05_SDList_QLTinhTien.exe
 D:\dotnet\lab_05_SDList_QLTinhTien\lab_05_SDList_QLTinhTien\obj\Debug\lab_05_SDList_QLTinhTien.pdb
+D:\dotnet\lab_05_SDList_QLTinhTien\lab_05_SDList_QLTinhTien\obj\Debug\lab_05_SDList_QLTinhTien.frmThaotacso.resources
+D:\dotnet\lab_05_SDList_QLTinhTien\lab_05_SDList_QLTinhTien\obj\Debug\lab_05_SDList_QLTinhTien.frmQLSinhVien.resources

@@ -16,7 +16,7 @@ namespace lab_05_SDList_QLTinhTien
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new frmQLSinhVien());
         }
     }
 }
