@@ -1,0 +1,137 @@
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Lab08_QLSV_SQL.exe
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Lab08_QLSV_SQL.deps.json
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Lab08_QLSV_SQL.runtimeconfig.json
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Lab08_QLSV_SQL.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Lab08_QLSV_SQL.pdb
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\obj\Debug\net8.0-windows\Lab08_QLSV_SQL.csproj.AssemblyReference.cache
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\obj\Debug\net8.0-windows\Lab08_QLSV_SQL.Form1.resources
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\obj\Debug\net8.0-windows\Lab08_QLSV_SQL.csproj.GenerateResource.cache
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\obj\Debug\net8.0-windows\Lab08_QLSV_SQL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\obj\Debug\net8.0-windows\Lab08_QLSV_SQL.AssemblyInfoInputs.cache
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\obj\Debug\net8.0-windows\Lab08_QLSV_SQL.AssemblyInfo.cs
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\obj\Debug\net8.0-windows\Lab08_QLSV_SQL.csproj.CoreCompileInputs.cache
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\obj\Debug\net8.0-windows\Lab08_QL.BAB7665F.Up2Date
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\obj\Debug\net8.0-windows\Lab08_QLSV_SQL.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\obj\Debug\net8.0-windows\refint\Lab08_QLSV_SQL.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\obj\Debug\net8.0-windows\Lab08_QLSV_SQL.pdb
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\obj\Debug\net8.0-windows\Lab08_QLSV_SQL.genruntimeconfig.cache
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\obj\Debug\net8.0-windows\ref\Lab08_QLSV_SQL.dll
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\obj\Debug\net8.0-windows\Lab08_QLSV_SQL.FrmMonHoc.resources
+D:\Hoc Tap\LapTrinh.Net\All_of_lap\Lab08_QLSV_SQL\Lab08_QLSV_SQL\obj\Debug\net8.0-windows\Lab08_QLSV_SQL.FrmMain.resources
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\obj\Debug\net8.0-windows\Lab08_QLSV_SQL.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\obj\Debug\net8.0-windows\refint\Lab08_QLSV_SQL.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\obj\Debug\net8.0-windows\Lab08_QLSV_SQL.pdb
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Lab08_QLSV_SQL.exe
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Lab08_QLSV_SQL.deps.json
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Lab08_QLSV_SQL.runtimeconfig.json
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Lab08_QLSV_SQL.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Lab08_QLSV_SQL.pdb
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\obj\Debug\net8.0-windows\Lab08_QLSV_SQL.csproj.AssemblyReference.cache
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\obj\Debug\net8.0-windows\Lab08_QLSV_SQL.Form1.resources
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\obj\Debug\net8.0-windows\Lab08_QLSV_SQL.FrmMain.resources
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\obj\Debug\net8.0-windows\Lab08_QLSV_SQL.FrmMonHoc.resources
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\obj\Debug\net8.0-windows\Lab08_QLSV_SQL.csproj.GenerateResource.cache
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\obj\Debug\net8.0-windows\Lab08_QLSV_SQL.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\obj\Debug\net8.0-windows\Lab08_QLSV_SQL.AssemblyInfoInputs.cache
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\obj\Debug\net8.0-windows\Lab08_QLSV_SQL.AssemblyInfo.cs
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\obj\Debug\net8.0-windows\Lab08_QLSV_SQL.csproj.CoreCompileInputs.cache
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\obj\Debug\net8.0-windows\Lab08_QL.BAB7665F.Up2Date
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\obj\Debug\net8.0-windows\Lab08_QLSV_SQL.genruntimeconfig.cache
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\obj\Debug\net8.0-windows\ref\Lab08_QLSV_SQL.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\demo\Lab08_QLSV_SQL\Lab08_QLSV_SQL\bin\Debug\net8.0-windows\Lab08_QLSV_SQL.dll.config
