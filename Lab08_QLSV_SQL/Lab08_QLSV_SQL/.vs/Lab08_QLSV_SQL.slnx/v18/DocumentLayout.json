@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hoc Tap\\LapTrinh.Net\\All_of_lap\\Lab08_QLSV_SQL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D921261-1A66-558D-A2F5-7CDCE041B479}|Lab08_QLSV_SQL\\Lab08_QLSV_SQL.csproj|d:\\hoc tap\\laptrinh.net\\all_of_lap\\lab08_qlsv_sql\\lab08_qlsv_sql\\studentdbdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{9D921261-1A66-558D-A2F5-7CDCE041B479}|Lab08_QLSV_SQL\\Lab08_QLSV_SQL.csproj|solutionrelative:lab08_qlsv_sql\\studentdbdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D921261-1A66-558D-A2F5-7CDCE041B479}|Lab08_QLSV_SQL\\Lab08_QLSV_SQL.csproj|d:\\hoc tap\\laptrinh.net\\all_of_lap\\lab08_qlsv_sql\\lab08_qlsv_sql\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D921261-1A66-558D-A2F5-7CDCE041B479}|Lab08_QLSV_SQL\\Lab08_QLSV_SQL.csproj|solutionrelative:lab08_qlsv_sql\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D921261-1A66-558D-A2F5-7CDCE041B479}|Lab08_QLSV_SQL\\Lab08_QLSV_SQL.csproj|d:\\hoc tap\\laptrinh.net\\all_of_lap\\lab08_qlsv_sql\\lab08_qlsv_sql\\frmmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D921261-1A66-558D-A2F5-7CDCE041B479}|Lab08_QLSV_SQL\\Lab08_QLSV_SQL.csproj|solutionrelative:lab08_qlsv_sql\\frmmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D921261-1A66-558D-A2F5-7CDCE041B479}|Lab08_QLSV_SQL\\Lab08_QLSV_SQL.csproj|D:\\Hoc Tap\\LapTrinh.Net\\All_of_lap\\Lab08_QLSV_SQL\\lab08_qlsv_sql\\frmkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D921261-1A66-558D-A2F5-7CDCE041B479}|Lab08_QLSV_SQL\\Lab08_QLSV_SQL.csproj|solutionrelative:lab08_qlsv_sql\\frmkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D921261-1A66-558D-A2F5-7CDCE041B479}|Lab08_QLSV_SQL\\Lab08_QLSV_SQL.csproj|D:\\Hoc Tap\\LapTrinh.Net\\All_of_lap\\Lab08_QLSV_SQL\\lab08_qlsv_sql\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D921261-1A66-558D-A2F5-7CDCE041B479}|Lab08_QLSV_SQL\\Lab08_QLSV_SQL.csproj|solutionrelative:lab08_qlsv_sql\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D921261-1A66-558D-A2F5-7CDCE041B479}|Lab08_QLSV_SQL\\Lab08_QLSV_SQL.csproj|D:\\Hoc Tap\\LapTrinh.Net\\All_of_lap\\Lab08_QLSV_SQL\\lab08_qlsv_sql\\frmketqua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D921261-1A66-558D-A2F5-7CDCE041B479}|Lab08_QLSV_SQL\\Lab08_QLSV_SQL.csproj|solutionrelative:lab08_qlsv_sql\\frmketqua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D921261-1A66-558D-A2F5-7CDCE041B479}|Lab08_QLSV_SQL\\Lab08_QLSV_SQL.csproj|d:\\hoc tap\\laptrinh.net\\all_of_lap\\lab08_qlsv_sql\\lab08_qlsv_sql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D921261-1A66-558D-A2F5-7CDCE041B479}|Lab08_QLSV_SQL\\Lab08_QLSV_SQL.csproj|solutionrelative:lab08_qlsv_sql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentDBDataSet.xsd",
+              "DocumentMoniker": "D:\\Hoc Tap\\LapTrinh.Net\\All_of_lap\\Lab08_QLSV_SQL\\Lab08_QLSV_SQL\\StudentDBDataSet.xsd",
+              "RelativeDocumentMoniker": "Lab08_QLSV_SQL\\StudentDBDataSet.xsd",
+              "ToolTip": "D:\\Hoc Tap\\LapTrinh.Net\\All_of_lap\\Lab08_QLSV_SQL\\Lab08_QLSV_SQL\\StudentDBDataSet.xsd",
+              "RelativeToolTip": "Lab08_QLSV_SQL\\StudentDBDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2026-03-03T03:36:37.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmMain.cs [Design]",
+              "DocumentMoniker": "D:\\Hoc Tap\\LapTrinh.Net\\All_of_lap\\Lab08_QLSV_SQL\\Lab08_QLSV_SQL\\FrmMain.cs",
+              "RelativeDocumentMoniker": "Lab08_QLSV_SQL\\FrmMain.cs",
+              "ToolTip": "D:\\Hoc Tap\\LapTrinh.Net\\All_of_lap\\Lab08_QLSV_SQL\\Lab08_QLSV_SQL\\FrmMain.cs [Design]",
+              "RelativeToolTip": "Lab08_QLSV_SQL\\FrmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T03:35:18.691Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmSinhVien.cs [Design]",
+              "DocumentMoniker": "D:\\Hoc Tap\\LapTrinh.Net\\All_of_lap\\Lab08_QLSV_SQL\\Lab08_QLSV_SQL\\FrmSinhVien.cs",
+              "RelativeDocumentMoniker": "Lab08_QLSV_SQL\\FrmSinhVien.cs",
+              "ToolTip": "D:\\Hoc Tap\\LapTrinh.Net\\All_of_lap\\Lab08_QLSV_SQL\\Lab08_QLSV_SQL\\FrmSinhVien.cs [Design]",
+              "RelativeToolTip": "Lab08_QLSV_SQL\\FrmSinhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T13:25:36.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmMonHoc.cs [Design]",
+              "DocumentMoniker": "D:\\Hoc Tap\\LapTrinh.Net\\All_of_lap\\Lab08_QLSV_SQL\\Lab08_QLSV_SQL\\FrmMonHoc.cs",
+              "RelativeDocumentMoniker": "Lab08_QLSV_SQL\\FrmMonHoc.cs",
+              "ToolTip": "D:\\Hoc Tap\\LapTrinh.Net\\All_of_lap\\Lab08_QLSV_SQL\\Lab08_QLSV_SQL\\FrmMonHoc.cs [Design]",
+              "RelativeToolTip": "Lab08_QLSV_SQL\\FrmMonHoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T13:24:27.086Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmKhoa.cs [Design]",
+              "DocumentMoniker": "D:\\Hoc Tap\\LapTrinh.Net\\All_of_lap\\Lab08_QLSV_SQL\\Lab08_QLSV_SQL\\FrmKhoa.cs",
+              "RelativeDocumentMoniker": "Lab08_QLSV_SQL\\FrmKhoa.cs",
+              "ToolTip": "D:\\Hoc Tap\\LapTrinh.Net\\All_of_lap\\Lab08_QLSV_SQL\\Lab08_QLSV_SQL\\FrmKhoa.cs [Design]",
+              "RelativeToolTip": "Lab08_QLSV_SQL\\FrmKhoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T13:23:56.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmKetQua.cs [Design]",
+              "DocumentMoniker": "D:\\Hoc Tap\\LapTrinh.Net\\All_of_lap\\Lab08_QLSV_SQL\\Lab08_QLSV_SQL\\FrmKetQua.cs",
+              "RelativeDocumentMoniker": "Lab08_QLSV_SQL\\FrmKetQua.cs",
+              "ToolTip": "D:\\Hoc Tap\\LapTrinh.Net\\All_of_lap\\Lab08_QLSV_SQL\\Lab08_QLSV_SQL\\FrmKetQua.cs [Design]",
+              "RelativeToolTip": "Lab08_QLSV_SQL\\FrmKetQua.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T13:23:35.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\LapTrinh.Net\\All_of_lap\\Lab08_QLSV_SQL\\Lab08_QLSV_SQL\\Program.cs",
+              "RelativeDocumentMoniker": "Lab08_QLSV_SQL\\Program.cs",
+              "ToolTip": "D:\\Hoc Tap\\LapTrinh.Net\\All_of_lap\\Lab08_QLSV_SQL\\Lab08_QLSV_SQL\\Program.cs",
+              "RelativeToolTip": "Lab08_QLSV_SQL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T13:20:47.999Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
