@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab08_QLSV_SQL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff109c9e1740e82075b66ec18b8975cbe32e212b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9945ed44d89891cb6f375130ed69c5ca156a92a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab08_QLSV_SQL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab08_QLSV_SQL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

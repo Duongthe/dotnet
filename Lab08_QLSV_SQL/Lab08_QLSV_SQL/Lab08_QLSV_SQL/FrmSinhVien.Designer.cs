@@ -47,6 +47,7 @@
             btnCapNhat = new Button();
             btnXoa = new Button();
             dgvSinhVien = new DataGridView();
+            groupBox1 = new GroupBox();
             gbGioiTinh.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dgvSinhVien).BeginInit();
             SuspendLayout();
@@ -145,12 +146,12 @@
             // 
             gbGioiTinh.Controls.Add(rdNu);
             gbGioiTinh.Controls.Add(rdNam);
-            gbGioiTinh.Location = new Point(422, 14);
+            gbGioiTinh.Location = new Point(422, 12);
             gbGioiTinh.Name = "gbGioiTinh";
-            gbGioiTinh.Size = new Size(286, 67);
+            gbGioiTinh.Size = new Size(286, 69);
             gbGioiTinh.TabIndex = 21;
             gbGioiTinh.TabStop = false;
-            gbGioiTinh.Text = "GioiTinh";
+            gbGioiTinh.Text = "Giới Tính";
             // 
             // rdNu
             // 
@@ -186,7 +187,7 @@
             // 
             // btnThem
             // 
-            btnThem.Location = new Point(768, 40);
+            btnThem.Location = new Point(746, 21);
             btnThem.Name = "btnThem";
             btnThem.Size = new Size(94, 29);
             btnThem.TabIndex = 23;
@@ -196,7 +197,7 @@
             // 
             // btnCapNhat
             // 
-            btnCapNhat.Location = new Point(768, 92);
+            btnCapNhat.Location = new Point(746, 80);
             btnCapNhat.Name = "btnCapNhat";
             btnCapNhat.Size = new Size(94, 29);
             btnCapNhat.TabIndex = 24;
@@ -206,7 +207,7 @@
             // 
             // btnXoa
             // 
-            btnXoa.Location = new Point(768, 138);
+            btnXoa.Location = new Point(746, 133);
             btnXoa.Name = "btnXoa";
             btnXoa.Size = new Size(94, 29);
             btnXoa.TabIndex = 25;
@@ -222,6 +223,15 @@
             dgvSinhVien.RowHeadersWidth = 51;
             dgvSinhVien.Size = new Size(850, 257);
             dgvSinhVien.TabIndex = 0;
+            // 
+            // groupBox1
+            // 
+            groupBox1.Location = new Point(0, 0);
+            groupBox1.Name = "groupBox1";
+            groupBox1.Size = new Size(345, 175);
+            groupBox1.TabIndex = 26;
+            groupBox1.TabStop = false;
+            groupBox1.Text = "Thông Tin";
             // 
             // FrmSinhVien
             // 
@@ -245,9 +255,10 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Controls.Add(dgvSinhVien);
+            Controls.Add(groupBox1);
             Name = "FrmSinhVien";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "THÔNG TIN SINH VIÊN";
+            Text = "Thông Tin Sinh Viên";
             Load += FrmSinhVien_Load;
             gbGioiTinh.ResumeLayout(false);
             gbGioiTinh.PerformLayout();
@@ -276,5 +287,6 @@
         private Button btnCapNhat;
         private Button btnXoa;
         private DataGridView dgvSinhVien;
+        private GroupBox groupBox1;
     }
 }

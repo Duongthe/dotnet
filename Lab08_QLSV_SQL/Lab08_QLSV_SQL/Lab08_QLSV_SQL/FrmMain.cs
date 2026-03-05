@@ -84,5 +84,25 @@ namespace Lab08_QLSV_SQL
         {
             Application.Exit();
         }
+
+        private void toolStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
+
+        private void noteToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            OpenChildForm(new FrmNote());
+        }
+
+        private void hướngDẫnSửDụngToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            OpenChildForm(new FrmHuongDan());
+        }
+
+        private void giớiThiệuToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            OpenChildForm(new FrmGioiThieu());
+        }
     }
 }

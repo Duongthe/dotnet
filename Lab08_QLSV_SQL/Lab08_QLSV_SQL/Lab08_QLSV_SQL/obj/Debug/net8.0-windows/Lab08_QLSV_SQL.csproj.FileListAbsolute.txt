@@ -146,3 +146,7 @@ D:\dotnet\Lab08_QLSV_SQL\Lab08_QLSV_SQL\Lab08_QLSV_SQL\obj\Debug\net8.0-windows\
 D:\dotnet\Lab08_QLSV_SQL\Lab08_QLSV_SQL\Lab08_QLSV_SQL\obj\Debug\net8.0-windows\Lab08_QLSV_SQL.genruntimeconfig.cache
 D:\dotnet\Lab08_QLSV_SQL\Lab08_QLSV_SQL\Lab08_QLSV_SQL\obj\Debug\net8.0-windows\ref\Lab08_QLSV_SQL.dll
 D:\dotnet\Lab08_QLSV_SQL\Lab08_QLSV_SQL\Lab08_QLSV_SQL\obj\Debug\net8.0-windows\Lab08_QLSV_SQL.Properties.Resources.resources
+D:\dotnet\Lab08_QLSV_SQL\Lab08_QLSV_SQL\Lab08_QLSV_SQL\obj\Debug\net8.0-windows\Lab08_QLSV_SQL.FrmThongKeKhoa.resources
+D:\dotnet\Lab08_QLSV_SQL\Lab08_QLSV_SQL\Lab08_QLSV_SQL\obj\Debug\net8.0-windows\Lab08_QLSV_SQL.FrmNote.resources
+D:\dotnet\Lab08_QLSV_SQL\Lab08_QLSV_SQL\Lab08_QLSV_SQL\obj\Debug\net8.0-windows\Lab08_QLSV_SQL.FrmGioiThieu.resources
+D:\dotnet\Lab08_QLSV_SQL\Lab08_QLSV_SQL\Lab08_QLSV_SQL\obj\Debug\net8.0-windows\Lab08_QLSV_SQL.FrmHuongDan.resources

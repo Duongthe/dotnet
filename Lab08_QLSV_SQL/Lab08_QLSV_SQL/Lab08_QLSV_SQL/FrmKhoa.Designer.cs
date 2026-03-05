@@ -42,7 +42,7 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(62, 34);
+            label1.Location = new Point(16, 41);
             label1.Name = "label1";
             label1.Size = new Size(75, 20);
             label1.TabIndex = 0;
@@ -51,7 +51,7 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(62, 78);
+            label2.Location = new Point(16, 115);
             label2.Name = "label2";
             label2.Size = new Size(77, 20);
             label2.TabIndex = 1;
@@ -59,14 +59,14 @@
             // 
             // txtMaKhoa
             // 
-            txtMaKhoa.Location = new Point(156, 27);
+            txtMaKhoa.Location = new Point(110, 34);
             txtMaKhoa.Name = "txtMaKhoa";
             txtMaKhoa.Size = new Size(257, 27);
             txtMaKhoa.TabIndex = 2;
             // 
             // txtTenKhoa
             // 
-            txtTenKhoa.Location = new Point(156, 71);
+            txtTenKhoa.Location = new Point(110, 108);
             txtTenKhoa.Name = "txtTenKhoa";
             txtTenKhoa.Size = new Size(257, 27);
             txtTenKhoa.TabIndex = 3;
@@ -74,15 +74,15 @@
             // dgvKhoa
             // 
             dgvKhoa.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dgvKhoa.Location = new Point(12, 180);
+            dgvKhoa.Location = new Point(12, 178);
             dgvKhoa.Name = "dgvKhoa";
             dgvKhoa.RowHeadersWidth = 51;
-            dgvKhoa.Size = new Size(480, 231);
+            dgvKhoa.Size = new Size(480, 250);
             dgvKhoa.TabIndex = 4;
             // 
             // btnXoa
             // 
-            btnXoa.Location = new Point(319, 122);
+            btnXoa.Location = new Point(398, 30);
             btnXoa.Name = "btnXoa";
             btnXoa.Size = new Size(94, 29);
             btnXoa.TabIndex = 28;
@@ -92,7 +92,7 @@
             // 
             // btnSua
             // 
-            btnSua.Location = new Point(192, 122);
+            btnSua.Location = new Point(398, 73);
             btnSua.Name = "btnSua";
             btnSua.Size = new Size(94, 29);
             btnSua.TabIndex = 27;
@@ -102,7 +102,7 @@
             // 
             // btnThem
             // 
-            btnThem.Location = new Point(62, 122);
+            btnThem.Location = new Point(398, 119);
             btnThem.Name = "btnThem";
             btnThem.Size = new Size(94, 29);
             btnThem.TabIndex = 26;

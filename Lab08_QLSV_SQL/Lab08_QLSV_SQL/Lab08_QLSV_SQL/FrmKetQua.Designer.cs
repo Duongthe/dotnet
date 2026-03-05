@@ -92,7 +92,7 @@
             // dgvKetQua
             // 
             dgvKetQua.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dgvKetQua.Location = new Point(3, 162);
+            dgvKetQua.Location = new Point(9, 169);
             dgvKetQua.Name = "dgvKetQua";
             dgvKetQua.RowHeadersWidth = 51;
             dgvKetQua.Size = new Size(785, 257);

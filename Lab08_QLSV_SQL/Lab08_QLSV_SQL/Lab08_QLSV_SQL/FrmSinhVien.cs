@@ -153,18 +153,16 @@ namespace Lab08_QLSV_SQL
 
         private void btnXoa_Click(object sender, EventArgs e)
         {
-            // 0. Kiểm tra có sinh viên hay không
             if (bs.Count == 0 || bs.Current == null)
             {
                 MessageBox.Show("Không có sinh viên nào để xóa.");
                 return;
             }
 
-            // 1. Lấy thông tin sinh viên hiện tại đang chọn
             DataRowView currentRow = (DataRowView)bs.Current;
+            int maSo = Convert.ToInt32(currentRow["MaSo"]);
             string tenSV = currentRow["HoTen"].ToString();
 
-            // 2. Hiển thị hộp thoại xác nhận (Confirm)
             DialogResult result = MessageBox.Show($"Bạn có chắc chắn muốn xóa sinh viên {tenSV} không?",
                                                  "Xác nhận xóa",
                                                  MessageBoxButtons.YesNo,
@@ -174,10 +172,19 @@ namespace Lab08_QLSV_SQL
             {
                 try
                 {
-                    // 3. Xóa dòng khỏi BindingSource
+                    conn.Open();
+
+                    // 1. Xóa dữ liệu trong bảng KetQua trước
+                    SqlCommand cmd = new SqlCommand("DELETE FROM KetQua WHERE MaSo=@MaSo", conn);
+                    cmd.Parameters.AddWithValue("@MaSo", maSo);
+                    cmd.ExecuteNonQuery();
+
+                    conn.Close();
+
+                    // 2. Xóa sinh viên trong BindingSource
                     bs.RemoveCurrent();
 
-                    // 4. Cập nhật ngay lập tức xuống CSDL
+                    // 3. Cập nhật xuống database
                     SqlCommandBuilder builder = new SqlCommandBuilder(da);
                     da.Update(dtSinhVien);
 
@@ -185,12 +192,12 @@ namespace Lab08_QLSV_SQL
                 }
                 catch (Exception ex)
                 {
-                    MessageBox.Show("Lỗi khi xóa: " + ex.Message, "Lỗi");
-                    // Nếu lỗi (vướng khóa ngoại), nạp lại dữ liệu để đồng bộ grid
+                    conn.Close();
+                    MessageBox.Show("Lỗi khi xóa: " + ex.Message);
+
                     dtSinhVien.Clear();
                     da.Fill(dtSinhVien);
                 }
-
             }
         }
     }
